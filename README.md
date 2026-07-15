@@ -1,11 +1,7 @@
 # Hyperspectral Imaging for Plastic Sorting — Project Showcase
 
-**Quantifying additives in polypropylene blends from near-infrared hyperspectral
-imaging**, comparing optimised chemometrics (PLS) against a lightweight deep
-learning model — built for in-line plastic-recycling applications.
-
-Research internship at the **Singapore Institute of Manufacturing Technology
-(SIMTech), A\*STAR**.
+This project was developed during my internship at the Singapore Institute of Manufacturing
+Technology (SIMTech), A*STAR. The model developed was primarily used to enhance the quantification of additives and polymer types within polypropylene blends using infrared hyperspectral imaging.
 
 > **About this repository.** This is a public *showcase* of the project — results
 > and methodology only. The source code lives in a private repository, and the
